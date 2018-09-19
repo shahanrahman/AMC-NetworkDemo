@@ -1,0 +1,98 @@
+09/12/2018 02:16:20 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='email'] and  locatorType: xpath
+09/12/2018 02:16:20 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='email'] locatorType: xpath
+09/12/2018 02:16:20 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='password'] and  locatorType: xpath
+09/12/2018 02:16:20 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='password'] locatorType: xpath
+09/12/2018 02:16:20 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='button-row']//button and  locatorType: xpath
+09/12/2018 02:16:20 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button-row']//button locatorType: xpath
+09/12/2018 02:17:21 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='email'] and  locatorType: xpath
+09/12/2018 02:17:21 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='email'] locatorType: xpath
+09/12/2018 02:17:21 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='password'] and  locatorType: xpath
+09/12/2018 02:17:21 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='password'] locatorType: xpath
+09/12/2018 02:17:21 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='button-row']//button and  locatorType: xpath
+09/12/2018 02:17:21 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button-row']//button locatorType: xpath
+09/12/2018 02:17:32 AM - SeleniumDriver - INFO: Element found with locator: //header[@id='header']//div[@class='container']/nav[@id='header__menu']//ul//li[1] and  locatorType: xpath
+09/12/2018 02:17:32 AM - SeleniumDriver - INFO: Clicked on element with locator: //header[@id='header']//div[@class='container']/nav[@id='header__menu']//ul//li[1] locatorType: xpath
+09/12/2018 02:17:32 AM - SeleniumDriver - INFO: Element found with locator: //header[@id='header']//div[@class='container']/nav[@id='header__menu']//ul//li[2] and  locatorType: xpath
+09/12/2018 02:17:34 AM - SeleniumDriver - INFO: Clicked on element with locator: //header[@id='header']//div[@class='container']/nav[@id='header__menu']//ul//li[2] locatorType: xpath
+09/12/2018 02:17:34 AM - SeleniumDriver - INFO: Element found with locator: //header[@id='header']//div[@class='container']/nav[@id='header__menu']//ul//li[3] and  locatorType: xpath
+09/12/2018 02:17:34 AM - SeleniumDriver - INFO: Clicked on element with locator: //header[@id='header']//div[@class='container']/nav[@id='header__menu']//ul//li[3] locatorType: xpath
+09/12/2018 02:17:34 AM - SeleniumDriver - INFO: Element found with locator: //header[@id='header']//div[@class='container']/nav[@id='header__menu']//ul//li[4] and  locatorType: xpath
+09/12/2018 02:17:35 AM - SeleniumDriver - INFO: Clicked on element with locator: //header[@id='header']//div[@class='container']/nav[@id='header__menu']//ul//li[4] locatorType: xpath
+09/12/2018 02:17:35 AM - SeleniumDriver - INFO: Element found with locator: //header[@id='header']//div[@class='container']/nav[@id='header__menu']//ul//li[5] and  locatorType: xpath
+09/12/2018 02:17:35 AM - SeleniumDriver - INFO: Clicked on element with locator: //header[@id='header']//div[@class='container']/nav[@id='header__menu']//ul//li[5] locatorType: xpath
+09/12/2018 02:17:35 AM - SeleniumDriver - INFO: Element found with locator: //input[@class='search-input'] and  locatorType: xpath
+09/12/2018 02:17:35 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@class='search-input'] locatorType: xpath
+09/12/2018 02:56:36 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='email'] and  locatorType: xpath
+09/12/2018 02:56:36 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='email'] locatorType: xpath
+09/12/2018 02:56:36 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='password'] and  locatorType: xpath
+09/12/2018 02:56:36 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='password'] locatorType: xpath
+09/12/2018 02:56:36 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='button-row']//button and  locatorType: xpath
+09/12/2018 02:56:36 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button-row']//button locatorType: xpath
+09/12/2018 02:56:36 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='email'] and  locatorType: xpath
+09/12/2018 02:56:36 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='email'] locatorType: xpath
+09/12/2018 02:56:36 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='password'] and  locatorType: xpath
+09/12/2018 02:56:36 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='password'] locatorType: xpath
+09/12/2018 02:56:36 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='button-row']//button and  locatorType: xpath
+09/12/2018 02:56:36 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button-row']//button locatorType: xpath
+09/12/2018 02:58:56 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='email'] and  locatorType: xpath
+09/12/2018 02:58:56 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='email'] locatorType: xpath
+09/12/2018 02:58:56 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='password'] and  locatorType: xpath
+09/12/2018 02:58:56 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='password'] locatorType: xpath
+09/12/2018 02:58:56 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='button-row']//button and  locatorType: xpath
+09/12/2018 02:58:56 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button-row']//button locatorType: xpath
+09/12/2018 03:00:10 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='email'] and  locatorType: xpath
+09/12/2018 03:00:10 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='email'] locatorType: xpath
+09/12/2018 03:00:10 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='password'] and  locatorType: xpath
+09/12/2018 03:00:10 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='password'] locatorType: xpath
+09/12/2018 03:00:10 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='button-row']//button and  locatorType: xpath
+09/12/2018 03:00:10 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button-row']//button locatorType: xpath
+09/12/2018 03:01:57 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='email'] and  locatorType: xpath
+09/12/2018 03:01:57 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='email'] locatorType: xpath
+09/12/2018 03:01:57 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='password'] and  locatorType: xpath
+09/12/2018 03:01:57 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='password'] locatorType: xpath
+09/12/2018 03:01:57 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='button-row']//button and  locatorType: xpath
+09/12/2018 03:01:57 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button-row']//button locatorType: xpath
+09/12/2018 03:01:57 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='error-message'] and  locatorType: xpath
+09/12/2018 03:01:57 AM - SeleniumDriver - INFO: Element Found
+09/12/2018 03:01:57 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='email'] and  locatorType: xpath
+09/12/2018 03:01:58 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='email'] locatorType: xpath
+09/12/2018 03:01:58 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='password'] and  locatorType: xpath
+09/12/2018 03:01:58 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='password'] locatorType: xpath
+09/12/2018 03:01:58 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='button-row']//button and  locatorType: xpath
+09/12/2018 03:01:58 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button-row']//button locatorType: xpath
+09/12/2018 03:11:25 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='email'] and  locatorType: xpath
+09/12/2018 03:11:25 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='email'] locatorType: xpath
+09/12/2018 03:11:25 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='password'] and  locatorType: xpath
+09/12/2018 03:11:25 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='password'] locatorType: xpath
+09/12/2018 03:11:25 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='button-row']//button and  locatorType: xpath
+09/12/2018 03:11:25 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button-row']//button locatorType: xpath
+09/12/2018 03:11:25 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='error-message'] and  locatorType: xpath
+09/12/2018 03:11:25 AM - SeleniumDriver - INFO: Element Found
+09/12/2018 03:11:30 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='email'] and  locatorType: xpath
+09/12/2018 03:11:30 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='email'] locatorType: xpath
+09/12/2018 03:11:30 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='password'] and  locatorType: xpath
+09/12/2018 03:11:30 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='password'] locatorType: xpath
+09/12/2018 03:11:30 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='button-row']//button and  locatorType: xpath
+09/12/2018 03:11:30 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button-row']//button locatorType: xpath
+09/12/2018 03:13:01 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='email'] and  locatorType: xpath
+09/12/2018 03:13:01 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='email'] locatorType: xpath
+09/12/2018 03:13:01 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='password'] and  locatorType: xpath
+09/12/2018 03:13:01 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='password'] locatorType: xpath
+09/12/2018 03:13:01 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='button-row']//button and  locatorType: xpath
+09/12/2018 03:13:01 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button-row']//button locatorType: xpath
+09/12/2018 03:13:01 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='error-message'] and  locatorType: xpath
+09/12/2018 03:13:01 AM - SeleniumDriver - INFO: Element Found
+09/12/2018 03:16:22 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='email'] and  locatorType: xpath
+09/12/2018 03:16:23 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='email'] locatorType: xpath
+09/12/2018 03:16:23 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='password'] and  locatorType: xpath
+09/12/2018 03:16:23 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='password'] locatorType: xpath
+09/12/2018 03:16:23 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='button-row']//button and  locatorType: xpath
+09/12/2018 03:16:23 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button-row']//button locatorType: xpath
+09/12/2018 03:16:23 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='error-message'] and  locatorType: xpath
+09/12/2018 03:16:23 AM - SeleniumDriver - INFO: Element Found
+09/12/2018 03:16:28 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='email'] and  locatorType: xpath
+09/12/2018 03:16:28 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='email'] locatorType: xpath
+09/12/2018 03:16:28 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='input-row']//input[@id='password'] and  locatorType: xpath
+09/12/2018 03:16:28 AM - SeleniumDriver - INFO: Sent data on element with locator: //div[@class='input-row']//input[@id='password'] locatorType: xpath
+09/12/2018 03:16:28 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='button-row']//button and  locatorType: xpath
+09/12/2018 03:16:28 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button-row']//button locatorType: xpath
